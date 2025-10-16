@@ -2,10 +2,9 @@
 
 ## Network Diagram
 
-<figure>
-  <img src="images/Network diagram project critical path.drawio.svg" alt="Project Network Diagram" style="width: 100%; max-width: 1200px; margin: 20px auto;">
-  <figcaption>Project Network Diagram showing activities, dependencies, and critical path</figcaption>
-</figure>
+![Project Network Diagram](assets/network-diagram.svg)
+
+*Project Network Diagram showing activities, dependencies, and critical path*
 
 ### Diagram Key Elements
 
