@@ -1,0 +1,13 @@
+site_name: Critical Path Method Analysis
+theme: material
+nav:
+  - Home: index.md
+  - Problem Statement: problem.md
+  - Network Analysis: network-analysis.md
+  - Critical Path Calculation: critical-path.md
+  - Results and Conclusion: results.md
+
+markdown_extensions:
+  - tables
+  - pymdownx.arithmatex:
+      generic: true
