@@ -2,7 +2,10 @@
 
 ## Network Diagram
 
-![Project Network Diagram](assets/network-diagram.svg)
+
+<object type="image/svg+xml" data="assets/network-diagram.svg" width="100%" style="min-height:600px;">
+   Your browser does not support SVG
+</object>
 
 *Project Network Diagram showing activities, dependencies, and critical path*
 
